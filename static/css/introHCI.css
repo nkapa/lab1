@@ -3,6 +3,22 @@
 	margin-top: 2em;
 }
 
+.intro h1 {
+     color: #013220;
+     font-size: 8vh;
+
+}
+
+.intro p {
+     color: #404040;
+     font-size: 3vh;
+}
+
+.project {
+     background-color: gray;
+     margin-left: 20px;
+}
+
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
