@@ -19,6 +19,12 @@
      margin-left: 20px;
 }
 
+.project img {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
